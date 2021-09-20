@@ -1,0 +1,9 @@
+{
+  "name": "kkb-training",
+  "version": "1.0.0",
+  "description": "kkb-training",
+  "main": "index.js",
+  "repository": "https://github.com/axing521/kkb-training.git",
+  "author": "axing521 <axing@bupt.edu.cn>",
+  "license": "MIT"
+}
