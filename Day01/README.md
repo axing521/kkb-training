@@ -1,7 +1,7 @@
 ## Day01
 
-* [ ] node常用API
-* [ ] 自建HTTP服务器
-* [ ] vue-auto-router-cli
+* [X] node常用API
+* [X] 自建HTTP服务器
+* [X] vue-auto-router-cli
 * [ ] restful
 * [ ] cookie/session
